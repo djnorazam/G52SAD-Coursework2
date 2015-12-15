@@ -1,0 +1,23 @@
+License justification;
+
+The license used to develop this software is the GNU GENERAL PUBLIC LICENSE, 
+
+This license ensures that the developer has the freedom to share and change the software,
+
+And to ensure that the software is free to all of its users.
+
+Picture Gallery Version
+
+License
+- GNU General Public License added.
+
+
+- Added ability to search/upload images
+- Ability to show image in fullscreen
+- Added feature to close program
+- Added checkbox 
+- Feature to organize the images in a list or thumbnail added
+- Added feature to rotate images
+- Added feature to increase/decrease brightness
+- Added feature to increase/decrease contrast
+- Added feature to save image (file format)
